@@ -19,5 +19,15 @@ Once the installation is complete, you can start your application by running the
 
 npm start
 
-If you encounter any issues or have any questions, please feel free to reach out . You can contact me at  prachalitparate13@gmail.com . Thank you to @paytonjewell for making the template available.
+If you encounter any issues or have any questions, please feel free to reach out . You can contact me at  prachalitparate13@gmail.com .
+Thank you to @paytonjewell for making the template available.
 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+darkmode 
+![alt text](image-3.png)
