@@ -24,7 +24,7 @@ export default function Home() {
                   <EmojiBullet key={index} emoji={bio.emoji} text={bio.text}/>
                ))}
             </Box>
-            <Box fontSize={{xs: '0.1rem', md: '1rem'}} p={'0.4rem'}  gap={'45rem'} alignContent={"center"}height={80}
+            <Box fontSize={{xs: '1rem', md: '1rem'}} p={'0.4rem'} display={'flex'} gap={'45rem'} justifyContent={"center"} height={80}
       width={900}>
                {info.intro}
             </Box>   
